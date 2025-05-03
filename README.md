@@ -100,7 +100,7 @@ search "racing line" for more info
 
 10.export tips:
 
-	.ignore if the export reasults are turning around in the staight lines the turn are correct
+	ignore if the export reasults are shaking  in the staight lines. the racing line of the turns are correct
 
 
 
